@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "az204lab02azfunc": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7275",
+      "launchBrowser": false
+    }
+  }
+}
