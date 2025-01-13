@@ -6,7 +6,8 @@ using Microsoft.Extensions.Logging;
 using System.IO;
 using System.Threading.Tasks;
 
-namespace func
+// namespace func
+namespace az204lab02azfunc
 {
     public class Echo
     {
